@@ -3757,8 +3757,8 @@
     },
     {
       "name": "measure",
-      "description": "Official Measure connector: track how your brand shows up in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews — visibility, citations, competitors, source gaps and GEO page audits via a remote OAuth MCP server.",
-      "version": "1.0.0",
+      "description": "Track how your brand shows up in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews — visibility, citations, competitors, source gaps and GEO page audits via a remote OAuth MCP server.",
+      "version": "1.0.3",
       "author": {
         "name": "Measure",
         "url": "https://www.measure.co"
@@ -3780,7 +3780,7 @@
       "source": {
         "source": "github",
         "repo": "measure-co/measure-claude-plugin",
-        "sha": "1275105ece46ce14c2bbd0c35df6e7b9408ac58d"
+        "sha": "2778fd56695f9b2b3bf044eb14e18d3932e00da9"
       }
     }
   ]
